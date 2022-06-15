@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
           ),
         ),
         Scaffold(
-          backgroundColor: Colors.black87,
+          backgroundColor: Colors.black54,
         )
       ],
     );
